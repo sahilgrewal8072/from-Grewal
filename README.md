@@ -6,3 +6,13 @@
 ---
 
 ## Special Dishes
+
+1. Paproni Pizza
+2. Paneer bhurji
+3. Omlet sussi
+
+## Favourite Places to visit near the restaurant
+
+- Kauffman Stadium
+- Mozingo lake
+- Nelson Museum
