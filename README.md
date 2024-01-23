@@ -19,3 +19,13 @@
 
 ---
 [More about Sahil Grewal](/MyMedia.md)
+
+---
+## Must Try Books !
+
+| BookName | Reason | Author |
+| ------------- | ------------- | -------- |
+| The God of Small Things  | A captivating exploration of family, society, and love in the Indian state of Kerala. | Arundhati Roy |
+| Pride and Prejudice  | A classic novel delving into love, class, and manners in early 19th-century England.  | Jane Austen |
+| Great Expectations  |  Dickens' compelling narrative unfolds the coming-of-age story set in Victorian England.  | Charles Dickens |
+| 1984 |  A dystopian masterpiece offering a chilling vision of a totalitarian society in the United Kingdom.  | George Orwell |
