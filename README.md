@@ -32,3 +32,13 @@ Books, as timeless vessels of knowledge and imagination, hold a unique place in 
 | Great Expectations  |  Dickens' compelling narrative unfolds the coming-of-age story set in Victorian England.  | Charles Dickens |
 | 1984 |  A dystopian masterpiece offering a chilling vision of a totalitarian society in the United Kingdom.  | George Orwell |
 
+---
+## Quotes
+
+> "You miss 100% of the shots you don't take."
+>
+> *Wayne Gretzky*
+
+> "Life is what happens when you're busy making other plans."
+>
+> *Allen Saunders*
