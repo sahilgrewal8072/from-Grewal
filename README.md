@@ -42,3 +42,17 @@ Books, as timeless vessels of knowledge and imagination, hold a unique place in 
 > "Life is what happens when you're busy making other plans."
 >
 > *Allen Saunders*
+
+---
+## Code Fencing
+
+JSON, short for JavaScript Object Notation, is a lightweight data interchange format. It employs key-value pairs and supports various data types, making it popular for seamless data exchange between different programming languages, particularly in web development, due to its simplicity and readability. This code converts JSON into an object.
+
+```
+import 'dart:convert';
+
+JsonDecoder().convert(yourJson) 
+
+```
+
+Code link : <https://code.pieces.app/collections/dart>
